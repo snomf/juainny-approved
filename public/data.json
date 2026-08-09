@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": "abril",
+      "name": "Abril",
+      "type": "A",
+      "profileIcon": "/assets/profiles/abril.png",
+      "content": {
+        "timeline": [
+          {
+            "id": "ab-1",
+            "image": "/assets/abril/elementary.jpg",
+            "period": "Elementary School",
+            "year": "2018",
+            "description": "I can't believe we met so long ago, in the ol' Arbor. We played family, had laughs, hit each other, and jumped around (yes, I can still jump further than you). It was awesome having someone like me there"
+          },
+          {
+            "id": "ab-2",
+            "image": "/assets/abril/middle1.jpg",
+            "period": "Middle School",
+            "year": "2022",
+            "description": "Middle school was when we got super-duper close, we played so much roblox (word zero) every single day during COVID and we called always. We were constantly making fun of each other and enjoying ourselves - going over to your house was a joy, and 8th grade was an accumulation of all of our favorite things to do each other now in school."
+          },
+          {
+            "id": "ab-2b",
+            "image": "/assets/abril/middle2.jpg",
+            "period": "Middle School",
+            "year": "2022",
+            "description": "I will never let you outlive this picture."
+          },
+          {
+            "id": "ab-3",
+            "image": "/assets/abril/high.jpg",
+            "period": "High School",
+            "year": "2026",
+            "description": "There are, unlike Middle School, hundreds of pictures to chose from. We were really starting to grow up in HS, and you \"kept me humble.\" You were an important part of my growth and I'm glad I had you! Clubs, classes (even tho we didn't share a lot) were always an awesome time, and debate club... yk."
+          },
+          {
+            "id": "ab-hm1",
+            "image": "/assets/abril/highlight1.jpg",
+            "period": "Highlighted Memory",
+            "year": "Barbie Movie",
+            "description": "Barbie Movie"
+          },
+          {
+            "id": "ab-hm2",
+            "image": "/assets/abril/highlight2.jpg",
+            "period": "Highlighted Memory",
+            "year": "AP LANG",
+            "description": "Group Projects in AP LANG"
+          }
+        ],
+        "letter": "/assets/letters/abril-letter.png"
+      }
+    },
+    {
+      "id": "lauren",
+      "name": "Lauren",
+      "type": "A",
+      "profileIcon": "/assets/profiles/lauren.png",
+      "content": {
+        "timeline": [
+          {
+            "id": "la-1",
+            "image": "/assets/lauren/middle.jpg",
+            "period": "Middle School",
+            "year": "2022",
+            "description": "While it's true that we didn't like each other in 6th Grade, 8th Grade us was on a completely different sprectrum! We started to get close and help Monroe with videos (you were there for moral support)."
+          },
+          {
+            "id": "la-2",
+            "image": "/assets/lauren/high.jpg",
+            "period": "High School",
+            "year": "2026",
+            "description": "High School is RLY where we bacame best-buds; we made up our own words, jokes, language - we found a way to communicate beyond what our tongue spoke. I really appreciate that bond!!"
+          },
+          {
+            "id": "la-hm1",
+            "image": "/assets/lauren/highlight1.jpg",
+            "period": "Highlighted Memory",
+            "year": "Designing",
+            "description": "BUilding lerrestau with you has been one of the funnest things I've had to do in HS. It's why I love designing more than ever, and having you as a partner was a dream. Thank you!"
+          },
+          {
+            "id": "la-hm2",
+            "image": "/assets/lauren/highlight2.jpg",
+            "period": "Highlighted Memory",
+            "year": "Secret Aang",
+            "description": "THIS JUST FELT GOOD HEHE"
+          }
+        ],
+        "letter": "/assets/letters/lauren-letter.png"
+      }
+    },
+    {
+      "id": "taire",
+      "name": "Taire",
+      "type": "A",
+      "profileIcon": "/assets/profiles/taire.png",
+      "content": {
+        "timeline": [
+          {
+            "id": "ta-1",
+            "image": "/assets/taire/elementary.jpg",
+            "period": "Elementary School",
+            "year": "2018",
+            "description": "It's insane to think this was so long ago, we goofed so much together, had millions of laughs, and I got to know my closest friends. You promised a kiss when I was 10, but that's wtv. Thanks!"
+          },
+          {
+            "id": "ta-2",
+            "image": "/assets/taire/middle.jpg",
+            "period": "Middle School",
+            "year": "2022",
+            "description": "Surviving through Covid together with my favorite people -- I remember sitting in this corner every week and all of us talking"
+          },
+          {
+            "id": "ta-3",
+            "image": "/assets/taire/high.jpg",
+            "period": "High School",
+            "year": "2026",
+            "description": "Our first real hanging out started during. High School.. going to museums with you has always been fun because."
+          },
+          {
+            "id": "ta-hm1",
+            "image": "/assets/taire/highlight1.jpg",
+            "period": "Highlighted Memory",
+            "year": "AP Bio",
+            "description": "HAS to be a highlighted memory, I've never suffered more and I'm glad I did that suffering with you."
+          },
+          {
+            "id": "ta-hm2",
+            "image": "/assets/taire/highlight2.jpg",
+            "period": "Highlighted Memory",
+            "year": "TikTok",
+            "description": "Random Tiktoks!!!!"
+          }
+        ],
+        "letter": "/assets/letters/taire-letter.png"
+      }
+    },
+    {
+      "id": "layla",
+      "name": "Layla",
+      "type": "B",
+      "profileIcon": "/assets/profiles/layla.png",
+      "content": {
+        "reels": [
+          {
+            "id": "layla-reel-1",
+            "type": "video",
+            "videoUrl": "https://files.catbox.moe/g46s4i.mov",
+            "likes": "1.4B",
+            "commentsCount": "120",
+            "fakeComments": [
+              { "username": "Juainny", "text": "You guys sing so well" },
+              { "username": "Juainny", "text": "Are you guys identical twins" },
+              { "username": "Juainny", "text": "This is not my alt acc" }
+            ]
+          },
+          {
+            "id": "layla-reel-2",
+            "type": "carousel",
+            "images": [
+              "/assets/layla/carousel1.jpg",
+              "/assets/layla/carousel2.jpg",
+              "/assets/layla/carousel3.jpg",
+              "/assets/layla/carousel4.jpg"
+            ],
+            "likes": "890M",
+            "commentsCount": "65",
+            "fakeComments": [
+              { "username": "Juainny", "text": "Yall look cute" },
+              { "username": "Juainny", "text": "Twins fr" }
+            ]
+          },
+          {
+            "id": "layla-reel-3",
+            "type": "video",
+            "videoUrl": "https://files.catbox.moe/79tcn0.mov",
+            "likes": "2.1B",
+            "commentsCount": "340",
+            "fakeComments": [
+              { "username": "Juainny", "text": "What grade are u in now" },
+              { "username": "Juainny", "text": "Freshman Passed  ✅" }
+            ]
+          },
+          {
+            "id": "layla-reel-4",
+            "type": "video",
+            "videoUrl": "https://files.catbox.moe/vyrjp0.mov",
+            "likes": "1.7B",
+            "commentsCount": "198",
+            "fakeComments": [
+              { "username": "Juainny", "text": "This goes so hard" },
+              { "username": "Juainny", "text": "Wait what song is this" }
+            ]
+          },
+          {
+            "id": "layla-reel-final",
+            "type": "final",
+            "image": "/assets/layla/final.jpg",
+            "audioUrl": "https://files.catbox.moe/0y56pn.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": "evan",
+      "name": "Evan",
+      "type": "C",
+      "profileIcon": "/assets/profiles/evan.png",
+      "content": {
+        "timeline": [
+          {
+            "id": "ev-tl-1",
+            "type": "notepad",
+            "image": "/assets/evan/amc.jpg",
+            "note": "thank you for convincing me to get AMC A-list and never forget the support we gave to this poor theater. keep on sneaking snacks without me, and keep on enjoying one of human's best inventions."
+          },
+          {
+            "id": "ev-tl-2",
+            "type": "movie",
+            "tmdbId": 687163,
+            "image": "/assets/evan/theater.jpg",
+            "approvedNote": "You were one of the few selected to watch Project Hail Mary with me -- it's my favorite movie and book and I'm glad you were there to geek with me!!!"
+          },
+          {
+            "id": "ev-tl-3",
+            "type": "movie",
+            "tmdbId": 1081003,
+            "approvedNote": "Our first AMC A-List movie, while not the best, it gave us unspeakable power. I thank you for convincing me more than most to get this and for the very much deserved purchase -- I hope I convinced you too."
+          },
+          {
+            "id": "ev-tl-4",
+            "type": "movie",
+            "tmdbId": 1368337,
+            "image": "/assets/evan/odyssey.jpg",
+            "approvedNote": "I don't have much to say. This is incredible. While I was gifted a horrible burden prior to the film, I was glad we got to see real cinema."
+          },
+          {
+            "id": "ev-tl-5",
+            "type": "movie",
+            "tmdbId": 969681,
+            "approvedNote": "the worst movie theater experience of my life. i don't want to about it. But I'm glad it's a memory we share!"
+          },
+          {
+            "id": "ev-tl-6",
+            "type": "song",
+            "title": "GREY",
+            "artist": "Saba",
+            "cover": "https://resources.tidal.com/images/72a3f586/2c97/4dbb/8065/a0247b4ebb8b/320x320.jpg",
+            "audioUrl": "https://files.catbox.moe/xn9jc3.flac"
+          }
+        ]
+      }
+    }
+  ]
+}
