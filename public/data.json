@@ -1,6 +1,52 @@
 {
   "users": [
     {
+      "id": "taire",
+      "name": "Taire",
+      "type": "A",
+      "profileIcon": "/assets/profiles/taire.png",
+      "content": {
+        "timeline": [
+          {
+            "id": "ta-1",
+            "image": "/assets/taire/elementary.jpg",
+            "period": "Elementary School",
+            "year": "2018",
+            "description": "It's insane to think this was so long ago, we goofed so much together, had millions of laughs, and I got to know my closest friends. You promised a kiss when I was 10, but that's wtv. Thanks!"
+          },
+          {
+            "id": "ta-2",
+            "image": "/assets/taire/middle.jpg",
+            "period": "Middle School",
+            "year": "2022",
+            "description": "Surviving through Covid together with my favorite people -- I remember sitting in this corner every week and all of us talking"
+          },
+          {
+            "id": "ta-3",
+            "image": "/assets/taire/high.jpg",
+            "period": "High School",
+            "year": "2026",
+            "description": "Our first real hanging out started during. High School.. going to museums with you has always been fun because."
+          },
+          {
+            "id": "ta-hm1",
+            "image": "/assets/taire/highlight1.jpg",
+            "period": "Highlighted Memory",
+            "year": "AP Bio",
+            "description": "HAS to be a highlighted memory, I've never suffered more and I'm glad I did that suffering with you."
+          },
+          {
+            "id": "ta-hm2",
+            "image": "/assets/taire/highlight2.jpg",
+            "period": "Highlighted Memory",
+            "year": "TikTok",
+            "description": "Random Tiktoks!!!!"
+          }
+        ],
+        "letter": "/assets/letters/taire-letter.png"
+      }
+    },
+    {
       "id": "abril",
       "name": "Abril",
       "type": "A",
@@ -54,6 +100,74 @@
       }
     },
     {
+      "id": "evan",
+      "name": "Evan",
+      "type": "C",
+      "profileIcon": "/assets/profiles/evan.png",
+      "content": {
+        "timeline": [
+          {
+            "id": "ev-tl-1",
+            "type": "notepad",
+            "image": "/assets/evan/amc.jpg",
+            "note": "thank you for convincing me to get AMC A-list and never forget the support we gave to this poor theater. keep on sneaking snacks without me, and keep on enjoying one of human's best inventions."
+          },
+          {
+            "id": "ev-tl-2",
+            "type": "movie",
+            "tmdbId": 687163,
+            "image": "/assets/evan/theater.jpg",
+            "approvedNote": "You were one of the few selected to watch Project Hail Mary with me -- it's my favorite movie and book and I'm glad you were there to geek with me!!!"
+          },
+          {
+            "id": "ev-tl-3",
+            "type": "movie",
+            "tmdbId": 1081003,
+            "approvedNote": "Our first AMC A-List movie, while not the best, it gave us unspeakable power. I thank you for convincing me more than most to get this and for the very much deserved purchase -- I hope I convinced you too."
+          },
+          {
+            "id": "ev-tl-4",
+            "type": "movie",
+            "tmdbId": 1368337,
+            "image": "/assets/evan/odyssey.jpg",
+            "approvedNote": "I don't have much to say. This is incredible. While I was gifted a horrible burden prior to the film, I was glad we got to see real cinema."
+          },
+          {
+            "id": "ev-tl-5",
+            "type": "movie",
+            "tmdbId": 969681,
+            "approvedNote": "the worst movie theater experience of my life. i don't want to about it. But I'm glad it's a memory we share!"
+          },
+          {
+            "id": "ev-tl-6",
+            "type": "song",
+            "title": "GREY",
+            "artist": "Saba",
+            "cover": "https://resources.tidal.com/images/72a3f586/2c97/4dbb/8065/a0247b4ebb8b/320x320.jpg",
+            "audioUrl": "https://files.catbox.moe/xn9jc3.flac"
+          }
+        ]
+      }
+    },
+    {
+      "id": "juainny",
+      "name": "Juainny",
+      "type": "A",
+      "profileIcon": "/assets/juainny-stamp.png",
+      "content": {
+        "timeline": [
+          {
+            "id": "ju-1",
+            "image": "/assets/juainny-stamp.png",
+            "period": "Juainny Approved",
+            "year": "2026",
+            "description": "Graduation gift compiled with love for the crew. You guys are forever approved! 🎓"
+          }
+        ],
+        "letter": ""
+      }
+    },
+    {
       "id": "lauren",
       "name": "Lauren",
       "type": "A",
@@ -90,52 +204,6 @@
           }
         ],
         "letter": "/assets/letters/lauren-letter.png"
-      }
-    },
-    {
-      "id": "taire",
-      "name": "Taire",
-      "type": "A",
-      "profileIcon": "/assets/profiles/taire.png",
-      "content": {
-        "timeline": [
-          {
-            "id": "ta-1",
-            "image": "/assets/taire/elementary.jpg",
-            "period": "Elementary School",
-            "year": "2018",
-            "description": "It's insane to think this was so long ago, we goofed so much together, had millions of laughs, and I got to know my closest friends. You promised a kiss when I was 10, but that's wtv. Thanks!"
-          },
-          {
-            "id": "ta-2",
-            "image": "/assets/taire/middle.jpg",
-            "period": "Middle School",
-            "year": "2022",
-            "description": "Surviving through Covid together with my favorite people -- I remember sitting in this corner every week and all of us talking"
-          },
-          {
-            "id": "ta-3",
-            "image": "/assets/taire/high.jpg",
-            "period": "High School",
-            "year": "2026",
-            "description": "Our first real hanging out started during. High School.. going to museums with you has always been fun because."
-          },
-          {
-            "id": "ta-hm1",
-            "image": "/assets/taire/highlight1.jpg",
-            "period": "Highlighted Memory",
-            "year": "AP Bio",
-            "description": "HAS to be a highlighted memory, I've never suffered more and I'm glad I did that suffering with you."
-          },
-          {
-            "id": "ta-hm2",
-            "image": "/assets/taire/highlight2.jpg",
-            "period": "Highlighted Memory",
-            "year": "TikTok",
-            "description": "Random Tiktoks!!!!"
-          }
-        ],
-        "letter": "/assets/letters/taire-letter.png"
       }
     },
     {
@@ -199,57 +267,7 @@
             "id": "layla-reel-final",
             "type": "final",
             "image": "/assets/layla/final.jpg",
-            "audioUrl": "https://files.catbox.moe/0y56pn.png"
-          }
-        ]
-      }
-    },
-    {
-      "id": "evan",
-      "name": "Evan",
-      "type": "C",
-      "profileIcon": "/assets/profiles/evan.png",
-      "content": {
-        "timeline": [
-          {
-            "id": "ev-tl-1",
-            "type": "notepad",
-            "image": "/assets/evan/amc.jpg",
-            "note": "thank you for convincing me to get AMC A-list and never forget the support we gave to this poor theater. keep on sneaking snacks without me, and keep on enjoying one of human's best inventions."
-          },
-          {
-            "id": "ev-tl-2",
-            "type": "movie",
-            "tmdbId": 687163,
-            "image": "/assets/evan/theater.jpg",
-            "approvedNote": "You were one of the few selected to watch Project Hail Mary with me -- it's my favorite movie and book and I'm glad you were there to geek with me!!!"
-          },
-          {
-            "id": "ev-tl-3",
-            "type": "movie",
-            "tmdbId": 1081003,
-            "approvedNote": "Our first AMC A-List movie, while not the best, it gave us unspeakable power. I thank you for convincing me more than most to get this and for the very much deserved purchase -- I hope I convinced you too."
-          },
-          {
-            "id": "ev-tl-4",
-            "type": "movie",
-            "tmdbId": 1368337,
-            "image": "/assets/evan/odyssey.jpg",
-            "approvedNote": "I don't have much to say. This is incredible. While I was gifted a horrible burden prior to the film, I was glad we got to see real cinema."
-          },
-          {
-            "id": "ev-tl-5",
-            "type": "movie",
-            "tmdbId": 969681,
-            "approvedNote": "the worst movie theater experience of my life. i don't want to about it. But I'm glad it's a memory we share!"
-          },
-          {
-            "id": "ev-tl-6",
-            "type": "song",
-            "title": "GREY",
-            "artist": "Saba",
-            "cover": "https://resources.tidal.com/images/72a3f586/2c97/4dbb/8065/a0247b4ebb8b/320x320.jpg",
-            "audioUrl": "https://files.catbox.moe/xn9jc3.flac"
+            "audioUrl": "https://files.catbox.moe/7f9fpp.flac"
           }
         ]
       }

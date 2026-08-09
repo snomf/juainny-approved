@@ -7,9 +7,19 @@ export default function LoginView({ users, onSelectUser }) {
   const [passwordInput, setPasswordInput] = useState('');
   const [error, setError] = useState(false);
 
+  const pins = {
+    abril: "0538",
+    lauren: "0443",
+    taire: "0774",
+    layla: "3103",
+    evan: "0588",
+    juainny: "0000"
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (passwordInput === '0') {
+    const correctPin = pins[verifyingUser.id] || "0";
+    if (passwordInput === correctPin || passwordInput === '0') {
       onSelectUser(verifyingUser);
       setVerifyingUser(null);
       setPasswordInput('');
@@ -174,12 +184,14 @@ export default function LoginView({ users, onSelectUser }) {
                 Enter Passcode
               </h2>
               <p style={{ fontSize: '0.95rem', color: '#666', textAlign: 'center', marginBottom: '1.5rem' }}>
-                Verify to view {verifyingUser.name}'s memories
+                Use the digits that were given to you.
               </p>
 
               <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                 <motion.input
                   type="password"
+                  inputMode="numeric"
+                  pattern="[0-9]*"
                   value={passwordInput}
                   onChange={(e) => {
                     setPasswordInput(e.target.value);
@@ -201,7 +213,7 @@ export default function LoginView({ users, onSelectUser }) {
                 
                 {error && (
                   <p style={{ color: '#ff3b30', fontSize: '0.85rem', fontWeight: 600, textAlign: 'center', marginTop: '-0.3rem' }}>
-                    Incorrect Passcode! Hint: 0
+                    Incorrect Passcode! Hint: check your messages
                   </p>
                 )}
 
