@@ -150,24 +150,6 @@
       }
     },
     {
-      "id": "juainny",
-      "name": "Juainny",
-      "type": "A",
-      "profileIcon": "/assets/juainny-stamp.png",
-      "content": {
-        "timeline": [
-          {
-            "id": "ju-1",
-            "image": "/assets/juainny-stamp.png",
-            "period": "Juainny Approved",
-            "year": "2026",
-            "description": "Graduation gift compiled with love for the crew. You guys are forever approved! 🎓"
-          }
-        ],
-        "letter": ""
-      }
-    },
-    {
       "id": "lauren",
       "name": "Lauren",
       "type": "A",
