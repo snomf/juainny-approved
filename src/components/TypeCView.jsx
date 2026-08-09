@@ -1,6 +1,7 @@
 import { useEffect, useState, useRef } from 'react';
 import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
 import { ArrowLeft, Star, Play, Pause, X, Music, Film, FileText } from 'lucide-react';
+import CountdownTimer from './CountdownTimer';
 
 export default function TypeCView({ user, onBack }) {
   const containerRef = useRef(null);
@@ -133,6 +134,7 @@ export default function TypeCView({ user, onBack }) {
           </div>
         </div>
         <p style={{ fontSize: '1.1rem', color: '#555', fontWeight: 500, marginTop: '0.5rem' }}>A 1-Year Movie Chronicle</p>
+        <CountdownTimer targetDateStr="2026-08-16T23:59:59" />
       </div>
 
       <div style={{ position: 'relative', width: '100%', maxWidth: '600px', margin: '0 auto', padding: '2rem 1rem' }}>

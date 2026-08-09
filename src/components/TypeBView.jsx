@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Heart, MessageCircle, Share2, ChevronLeft, ChevronRight } from 'lucide-react';
+import CountdownTimer from './CountdownTimer';
 
 function ReelVideo({ src, isActive, isMuted, onToggleMute }) {
   const videoRef = useRef(null);
@@ -246,6 +247,7 @@ export default function TypeBView({ user, onBack }) {
                   <h2 style={{ fontFamily: 'var(--font-handwritten)', fontSize: '2rem', marginBottom: '0.5rem', textShadow: '1px 1px 2px black' }}>
                     @{user.name}
                   </h2>
+                  <CountdownTimer targetDateStr="2026-08-11T23:59:59" dark />
                   <div 
                     style={{ 
                       maxHeight: '120px', 

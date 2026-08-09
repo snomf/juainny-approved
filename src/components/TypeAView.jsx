@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
 import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
 import { X, ArrowLeft, ArrowDown } from 'lucide-react';
+import CountdownTimer from './CountdownTimer';
 
 export default function TypeAView({ user, onBack }) {
   const containerRef = useRef(null);
@@ -66,6 +67,7 @@ export default function TypeAView({ user, onBack }) {
           </div>
         </div>
         <p style={{ fontSize: '1.1rem', color: '#555', fontWeight: 500, marginTop: '0.5rem' }}>Scroll down our memory lane...</p>
+        <CountdownTimer targetDateStr="2026-08-10T23:59:59" />
         <motion.div
           animate={{ y: [0, 8, 0] }}
           transition={{ repeat: Infinity, duration: 1.5 }}
